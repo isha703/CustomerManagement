@@ -1,4 +1,5 @@
 # CustManagement Backend
+<img width="1918" height="856" alt="image" src="https://github.com/user-attachments/assets/c7488e98-50ab-42f0-a990-30c82b19f70c" />
 
 Spring Boot backend for customer management with OAuth2 Resource Server (Google) support, PostgreSQL, Flyway, and production-ready configs.
 
